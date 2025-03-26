@@ -1,0 +1,5 @@
+ogrenciler.db
+__pycache__/
+*.pyc
+.idea/
+.vscode/
