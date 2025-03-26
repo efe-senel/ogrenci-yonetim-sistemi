@@ -24,3 +24,4 @@ python main.py
 - customtkinter
 - openpyxl
 - fpdf
+![Ekran Görüntüsü](ekran-goruntusu.png)
